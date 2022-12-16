@@ -2,4 +2,7 @@ maven: is the source project management toll that help us to create different so
 
 gradle: is an open source tool that helps us to create software with mechanization,
 
-differnces are that with Gradle, there are customized dependency selection and substitution rules. While Maven has the provission to overide a dependancies.
+differnces are that with Gradle, there are customized dependency selection and substitution rules. While Maven has the provission to overide a dependancies. 
+maven uses an XML-file for declaring the project, it's dependencies, the build order and it's required plugin; in maven the goal is related to the project phase. while gradle does not use XML-file for declaring the project ,gradle is based on a graph of task dependencies that do the work 
+
+
