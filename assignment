@@ -1,1 +1,3 @@
 maven: is the source project management toll that help us to create different software in the lifecycle used by this tool.it's also primarily used for java projects,maven addresses the two main aspects of software development; depency and how software is build.
+
+gradle: is an open source tool that helps us to create software with mechanization,
